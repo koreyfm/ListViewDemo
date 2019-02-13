@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListViewDemo</string>
+
+    <string-array name="class_schedule">
+        <item>CSCI420</item>
+        <item>CSCI325</item>
+        <item>CITA230</item>
+        <item>CITA495</item>
+    </string-array>
+
+</resources>
